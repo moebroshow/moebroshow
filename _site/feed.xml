@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Moe Bro Show</title>
+    
+    
+    
+    	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="Moe Bro Show">
+	
+	<meta name="twitter:site" content="@moebroshow">
+	<meta name="twitter:creator" content="@moebroshow">
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="/images/">
+	
+	<!-- Open Graph -->
+	<meta property="og:locale" content="en">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Moe Bro Show">
+	
+	<meta property="og:url" content="/feed.xml">
+	<meta property="og:site_name" content="Moe Bro Show">
+
+    <link rel="canonical" href="/feed.xml">
+
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Moe Bro Show Atom Feed">
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="/js/vendor/html5shiv.min.js"></script>
+      <script src="/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+      <script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://example.com/my-podcast-episode.json"></script>
+
+  </head>
+
+  <body id="js-body">
+    <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+    <header id="masthead">
+  <div class="inner-wrap">
+    <a href="/" class="site-title">Moe Bro Show</a>
+    <nav role="navigation" class="menu top-menu">
+        <ul class="menu-item">
+	<li class="home"><a href="/">Moe Bro Show</a></li>
+	
+    
+    <li><a href="/index.html/" >Home</a></li>
+  
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+    <nav role="navigation" id="js-menu" class="sliding-menu-content">
+  <h5>Moe Bro Show <span>Table of Contents</span></h5>
+  <ul class="menu-item">
+    <li>
+      <a href="/index.html/">
+        
+        <div class="title">Home</div>
+        
+      </a>
+    </li>
+  </ul>
+</nav>
+<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" role="button" aria-label="Toggle Navigation">
+  <span class="nav-lines"></span>
+</button>
+
+<div id="js-menu-screen" class="menu-screen"></div>
+
+
+    <div id="page-wrapper">
+      <?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Moe Bro Show</title>
+    <link></link>
+    <atom:link href="/episodes..rss" rel="self" type="application/rss+xml" title=" Episode RSS-Feed"/>
+    Jekyll::Drops::SiteDrop
+    <description>A podcast by Andy &amp; Eric Moe.
+</description>
+    <lastBuildDate>2016-11-26 10:10:58 -0600</lastBuildDate>
+    <language></language>
+
+    <itunes:summary>A podcast by Andy &amp; Eric Moe.
+</itunes:summary>
+    <itunes:author></itunes:author>
+    <itunes:explicit></itunes:explicit>
+    <itunes:image href="/img/logo.jpg" />
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <managingEditor> ()</managingEditor>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:keywords></itunes:keywords>
+    <image>
+      <title>Moe Bro Show</title>
+      <url>/img/logo.jpg</url>
+      <link></link>
+    </image>
+    
+    </itunes:category>
+    
+  </channel>
+</rss>
+
+      <footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		
+      
+			<li><a href="" ></a></li>
+		
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; 2016 <a href="">Moe Bro Show</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/" rel="nofollow">Skinny Bones</a>.</p>
+</footer>
+    </div>
+
+    <script src="/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="/js/main.js"></script>
+
+  </body>
+
+</html>

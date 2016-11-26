@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-25T19:08:02-06:00</updated><id>/</id><title>Moe Bro Show</title><subtitle>A podcast by Andy &amp; Eric Moe.</subtitle><entry><title>Post with a Background Image</title><link href="/background-image/" rel="alternate" type="text/html" title="Post with a Background Image" /><published>2013-10-26T00:00:00-05:00</published><updated>2013-10-26T00:00:00-05:00</updated><id>/background-image</id><content type="html" xml:base="/background-image/">&lt;p&gt;Here be a sample post with a custom background image. To utilize this “feature” just add the following YAML to a post’s front matter.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-26T10:10:58-06:00</updated><id>/</id><title>Moe Bro Show</title><subtitle>A podcast by Andy &amp; Eric Moe.</subtitle><entry><title>Podigee Test</title><link href="/podigee/" rel="alternate" type="text/html" title="Podigee Test" /><published>2016-11-24T00:00:00-06:00</published><updated>2016-11-24T00:00:00-06:00</updated><id>/podigee</id><content type="html" xml:base="/podigee/">&lt;p&gt;Below is Podigee in its “embedded” state:&lt;/p&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot; data-configuration=&quot;https://researchvr.podigee.io/13-researchvr-012/embed&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Default:&lt;/p&gt;
+
+&lt;script&gt;
+window.config = {
+  options: {
+    theme: &quot;default&quot;,
+    sslProxy: &quot;https://cdn.podigee.com/ssl-proxy/&quot;
+  },
+  extensions: {},
+  podcast: {},
+  episode: {
+  media: {
+    mp3: &quot;https://cdn.podigee.com/media/podcast_514_researchvr_podcast_episode_16_researchvr_015_behavioural_analysis_in_vr_with_retinad.mp3?v=1467933317&amp;source=feed&quot;
+  },
+  coverUrl: &quot;https://cdn.podigee.com/uploads/u493/researchvr%20redesign1466094096e6a5.png?v=0&amp;source=unknown&quot;,
+  url: &quot;https://researchvr.podigee.io/16-researchvr015&quot;,
+  title: &quot;ResearchVR 015 - Behavioural analysis in VR with Retinad&quot;,
+  subtitle: &quot;Azad is joined by Alexander Haque from Retinad to discuss Behavioural Analytics in VR&quot;,
+  description: &quot;Hello and welcome to episode number 15 of ResearchVR podcast! Where we dig deep into Virtual Reality with Cognitive Science and Economic Research. For those of you joining us for the first time, ResearchVR is a weekly podcast dedicated to breaking down years of Virtual Reality Research into a digestible form, and discussing the current economic trends of the industry around the world. This time we take a slightly different approach: instead of having all three of your favorings VR podcasts host, today Azad is joined by Alexander Haque from Retinad to discuss Behavioural Analytics in VR.&quot;,
+  chaptermarks: []
+  }
+}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot; data-configuration=&quot;config&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Minimal:&lt;/p&gt;
+
+&lt;script&gt;
+window.config = {
+  options: {
+    theme: &quot;minimal&quot;,
+    sslProxy: &quot;https://cdn.podigee.com/ssl-proxy/&quot;
+  },
+  extensions: {},
+  podcast: {},
+  episode: {
+  media: {
+    mp3: &quot;https://cdn.podigee.com/media/podcast_514_researchvr_podcast_episode_16_researchvr_015_behavioural_analysis_in_vr_with_retinad.mp3?v=1467933317&amp;source=feed&quot;
+  },
+  coverUrl: &quot;https://cdn.podigee.com/uploads/u493/researchvr%20redesign1466094096e6a5.png?v=0&amp;source=unknown&quot;,
+  url: &quot;https://researchvr.podigee.io/16-researchvr015&quot;,
+  title: &quot;ResearchVR 015 - Behavioural analysis in VR with Retinad&quot;,
+  subtitle: &quot;Azad is joined by Alexander Haque from Retinad to discuss Behavioural Analytics in VR&quot;,
+  description: &quot;Hello and welcome to episode number 15 of ResearchVR podcast! Where we dig deep into Virtual Reality with Cognitive Science and Economic Research. For those of you joining us for the first time, ResearchVR is a weekly podcast dedicated to breaking down years of Virtual Reality Research into a digestible form, and discussing the current economic trends of the industry around the world. This time we take a slightly different approach: instead of having all three of your favorings VR podcasts host, today Azad is joined by Alexander Haque from Retinad to discuss Behavioural Analytics in VR.&quot;,
+  chaptermarks: []
+  }
+}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot; data-configuration=&quot;config&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Dark:&lt;/p&gt;
+
+&lt;script&gt;
+window.config = {
+  options: {
+    theme: &quot;default-dark&quot;,
+    sslProxy: &quot;https://cdn.podigee.com/ssl-proxy/&quot;
+  },
+  extensions: {},
+  podcast: {},
+  episode: {
+  media: {
+    mp3: &quot;https://cdn.podigee.com/media/podcast_514_researchvr_podcast_episode_16_researchvr_015_behavioural_analysis_in_vr_with_retinad.mp3?v=1467933317&amp;source=feed&quot;
+  },
+  coverUrl: &quot;https://cdn.podigee.com/uploads/u493/researchvr%20redesign1466094096e6a5.png?v=0&amp;source=unknown&quot;,
+  url: &quot;https://researchvr.podigee.io/16-researchvr015&quot;,
+  title: &quot;ResearchVR 015 - Behavioural analysis in VR with Retinad&quot;,
+  subtitle: &quot;Azad is joined by Alexander Haque from Retinad to discuss Behavioural Analytics in VR&quot;,
+  description: &quot;Hello and welcome to episode number 15 of ResearchVR podcast! Where we dig deep into Virtual Reality with Cognitive Science and Economic Research. For those of you joining us for the first time, ResearchVR is a weekly podcast dedicated to breaking down years of Virtual Reality Research into a digestible form, and discussing the current economic trends of the industry around the world. This time we take a slightly different approach: instead of having all three of your favorings VR podcasts host, today Azad is joined by Alexander Haque from Retinad to discuss Behavioural Analytics in VR.&quot;,
+  chaptermarks: []
+  }
+}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot; data-configuration=&quot;config&quot;&gt;&lt;/script&gt;</content><summary>Below is Podigee in its “embedded” state:</summary></entry><entry><title>Post with a Background Image</title><link href="/background-image/" rel="alternate" type="text/html" title="Post with a Background Image" /><published>2013-10-26T00:00:00-05:00</published><updated>2013-10-26T00:00:00-05:00</updated><id>/background-image</id><content type="html" xml:base="/background-image/">&lt;p&gt;Here be a sample post with a custom background image. To utilize this “feature” just add the following YAML to a post’s front matter.&lt;/p&gt;
 
 &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
   &lt;span class=&quot;s&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;filename.png&lt;/span&gt;
